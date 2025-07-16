@@ -13,7 +13,7 @@ Below we've collated a list of helpful links and tutorials to get you started:
 
   * **Google Satellite v1 Embeddings**:
     * https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL
-    * We have scripts to help download rasters of embeddings
+    * We have scripts to help download rasters of embeddings with python API
 
   * **SatCLIP:** Predict location coordinates given satellite imagery
     * https://github.com/microsoft/satclip/tree/main/notebooks   
