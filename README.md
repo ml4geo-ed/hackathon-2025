@@ -4,6 +4,8 @@ Welcome to ML4GEO's inaugaral Ideathon/Hackathon for Geospatial Foundation Model
 
 Below we've collated a list of helpful links and tutorials to get you started:
 
+## Foundation Models / Tutorials
+
   * **TerraTorch**: Built on PyTorch, enables access to multiple vision (TerraMind, Clay, SSL4EO,...) and weather foundation models (Pritvi). Many examples of image classification, downscaling @
     * https://github.com/IBM/terratorch/tree/main/examples/notebooks
    
@@ -17,3 +19,9 @@ Below we've collated a list of helpful links and tutorials to get you started:
 
   * **SatCLIP:** Predict location coordinates given satellite imagery
     * https://github.com/microsoft/satclip/tree/main/notebooks   
+
+
+## Challenges
+
+ * [ESA Phi Lab - AI4EO challenges](https://platform.ai4eo.eu/)
+ * [Terramind Blue Sky challenge](https://www.fast-eo.eu/news/terramind-blue-sky-challenge)
