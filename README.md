@@ -32,6 +32,7 @@ Below we've collated a list of helpful links and tutorials to get you started:
 
 
 ## ML-ready datasets
+These are a sample of the very large datasets used to train GFMs
 
 ### Unlabelled
 
