@@ -18,7 +18,13 @@ Below we've collated a list of helpful links and tutorials to get you started:
     * We have scripts to help download rasters of embeddings with python API
 
   * **SatCLIP:** Predict location coordinates given satellite imagery
-    * https://github.com/microsoft/satclip/tree/main/notebooks   
+    * https://github.com/microsoft/satclip/tree/main/notebooks
+   
+  * **Clay** - EO foudnation model
+    * https://clay-foundation.github.io/model/index.html
+    *  Training data:
+       <img width="810" height="331" alt="image" src="https://github.com/user-attachments/assets/ec4c31dc-0725-4025-ac27-ef9e2de8aaeb" />
+
 
 ## Technical Understanding of Key Concepts
 
