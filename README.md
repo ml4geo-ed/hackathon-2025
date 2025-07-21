@@ -27,6 +27,7 @@ Below we've collated a list of helpful links and tutorials to get you started:
 ## Challenges
 
  * [ESA Phi Lab - AI4EO challenges](https://platform.ai4eo.eu/)
+ * [AI4EO challenges](https://platform.ai4eo.eu/ai-for-earth-challenge)
  * [Terramind Blue Sky challenge](https://www.fast-eo.eu/news/terramind-blue-sky-challenge)
  * [Zindi - Amini GeoFM Decoding the Field Challenge](https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge)
 
