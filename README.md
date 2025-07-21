@@ -20,6 +20,9 @@ Below we've collated a list of helpful links and tutorials to get you started:
   * **SatCLIP:** Predict location coordinates given satellite imagery
     * https://github.com/microsoft/satclip/tree/main/notebooks   
 
+## Technical Understanding of Key Concepts
+
+* https://developers.google.com/machine-learning/crash-course/embeddings/embedding-space 
 
 ## Challenges
 
