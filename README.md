@@ -17,12 +17,15 @@ Below we've collated a list of helpful links and tutorials to get you started:
     * https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL
     * We have scripts to help download rasters of embeddings with python API
 
+  * **IBM-NASA Prithvi Models**: Three foundation models have been released to date: Prithvi-EO-1.0 and Prithvi-EO-2.0 which uses earth observation data from    NASA’s Harmonized Landsat and Sentinel-2 (HLS), and Prithvi-WxC-1.0 which uses weather and climate data from NASA’s MERRA-2.
+    *   https://huggingface.co/ibm-nasa-geospatial 
+
   * **SatCLIP:** Predict location coordinates given satellite imagery
     * https://github.com/microsoft/satclip/tree/main/notebooks
    
-  * **Clay** - EO foudnation model
+  * **Clay**: EO foudnation model trained on Landsat, S2, S1, NAIP, LINZ, MODIS
     * https://clay-foundation.github.io/model/index.html
-    *  Training data: Landsat, S2, S1, NAIP, LINZ, MODIS
+    * Has a nice tutorial visualising embeddings
 
 
 ## Technical Understanding of Key Concepts
