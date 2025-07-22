@@ -26,6 +26,10 @@ Below we've collated a list of helpful links and tutorials to get you started:
   * **Clay**: EO foudnation model trained on Landsat, S2, S1, NAIP, LINZ, MODIS
     * https://clay-foundation.github.io/model/index.html
     * Has a nice tutorial visualising embeddings
+   
+  * **[DOFA](https://huggingface.co/earthflow/DOFA)**: a unified multimodal foundation model for different data modalities in remote sensing and Earth observation.
+    
+  * **[Aurora](https://microsoft.github.io/aurora/intro.html)**: A Foundation Model for the Earth System.
 
 
 ## Technical Understanding of Key Concepts
