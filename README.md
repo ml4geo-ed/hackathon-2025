@@ -43,11 +43,17 @@ Below we've collated a list of helpful links and tutorials to get you started:
 ## ML-ready datasets
 These are a sample of the very large datasets used to train GFMs
 
+### Large ML datahubs
+
+Here are some datahubs which host many ML-ready training sets:
+* [Source Cooperative](https://source.coop/)
+* [Torchgeo DataModules](https://torchgeo.readthedocs.io/en/latest/api/datamodules.html) - torchgeo has a number of datasets readily available to import prepped in a format read for ML. If you are using the TerraTorch, this is particularly useful as it is built on top of TorchGeo so can be used off-the-shelf.
+
+
 ### Unlabelled
 
 * [ESA's MajorTOM dataset](https://github.com/ESA-PhiLab/Major-TOM) - 50+TB of Sentinel-1 and -2 data and DEMs.
 
 ### Labelled
 
-* [Torchgeo DataModules](https://torchgeo.readthedocs.io/en/latest/api/datamodules.html) - torchgeo has a number of datasets readily available to import prepped in a format read for ML. If you are using the TerraTorch, this is particularly useful as it is built on top of TorchGeo so can be used off-the-shelf.
 * [PhilEO](https://huggingface.co/datasets/PhilEO-community/PhilEO-downstream) - 400GB Sentinel-2 dataset of the PhilEO Bench containing labels for the three downstream tasks of building density estimation, road segmentation, and land cover classification.
