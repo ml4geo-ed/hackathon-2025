@@ -31,6 +31,8 @@ Below we've collated a list of helpful links and tutorials to get you started:
     
   * **[Aurora](https://microsoft.github.io/aurora/intro.html)**: A Foundation Model for the Earth System.
 
+## Embeddings - Things to Consider when using the Google Ones
+* https://www.linkedin.com/posts/mbforr_ai-isnt-magic-its-math-and-sometimes-activity-7353415998424711169-CKsX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADV71oUBf4-Yt6U7QfjkZLmIRivB7oVFbHA 
 
 ## Technical Understanding of Key Concepts
 
