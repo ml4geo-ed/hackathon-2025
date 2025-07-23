@@ -17,6 +17,10 @@ Below we've collated a list of helpful links and tutorials to get you started:
     * https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL
     * We have scripts to help download rasters of embeddings with python API
 
+  * **Earth Index**:
+    * https://www.earthgenome.org/earth-index
+    * No coding tool with great interface to find similar satellite images tiles in an active learning environment, currently early access only
+
   * **IBM-NASA Prithvi Models**: Three foundation models have been released to date: Prithvi-EO-1.0 and Prithvi-EO-2.0 which uses earth observation data from    NASA’s Harmonized Landsat and Sentinel-2 (HLS), and Prithvi-WxC-1.0 which uses weather and climate data from NASA’s MERRA-2.
     *   https://huggingface.co/ibm-nasa-geospatial 
 
